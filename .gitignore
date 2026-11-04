@@ -1,0 +1,8 @@
+node_modules/
+.tmp/
+samples/
+verify/
+*.bak-*
+.DS_Store
+.gh-token.tmp
+.gh-device.json

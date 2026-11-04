@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Reply Snapshot">
+  <defs>
+    <linearGradient id="dshCsiTile" x1="6" y1="4" x2="58" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5B9BFF"/>
+      <stop offset="1" stop-color="#2F6FE4"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="url(#dshCsiTile)"/>
+  <rect x="19" y="11" width="26" height="42" rx="4.5" fill="#FFFFFF" opacity="0.97"/>
+  <path d="M25 20h14M25 26h14M25 32h10M25 38h8" stroke="#2F6FE4" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="9" y="40" width="20" height="15" rx="4.5" fill="#12305E"/>
+  <circle cx="19" cy="47.5" r="3.6" fill="none" stroke="#FFFFFF" stroke-width="1.9"/>
+  <path d="M13.5 42.7 15.3 40.5h7.4l1.8 2.2" fill="none" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

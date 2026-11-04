@@ -1,0 +1,8 @@
+# dsh-chat-share-image bundle patch
+#
+# One row: the Host half is an empty shell (this plugin does all of its work in
+# the browser), the Client half adds one action button to every finished
+# assistant reply and one transient toast in the shell overlay.
+- insert:
+    - id: chat-share-image
+      name: 'dsh-chat-share-image'

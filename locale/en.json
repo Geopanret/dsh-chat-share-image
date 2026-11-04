@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reply Snapshot",
+    "description": "Adds a button under each finished assistant reply that renders the whole reply as a PNG long image and copies it to the clipboard, tables, code and images included."
+  }
+}
